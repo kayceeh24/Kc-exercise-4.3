@@ -1,6 +1,7 @@
 # Programmer: KC 
 # Helped By: 
 
+# Function for bank that deposits, withdraws, and report the net result
 transaction = int(input("How many transactions are there? "))
 deep_amount = 0
 with_amount = 0
