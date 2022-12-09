@@ -18,7 +18,7 @@ for x in range(transaction):
         with_amount += withdraw
 print("")
 print(f"Deposits: ${deep_amount:,.2f}")
-print(f"Withdraws: ${with_amount:,.2f}")
+print(f"Withdrawals: ${with_amount:,.2f}")
 print(f"Net Change: ${deep_amount - with_amount:,.2f}")
         
         
