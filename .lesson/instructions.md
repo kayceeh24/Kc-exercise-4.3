@@ -32,15 +32,19 @@ Net Change: $-200.00
 ```
 How many transactions are there? 1
 Is transaction 1 a deposit or withdrawal? [D/W] not
+Invalid choice! Try again.
 Is transaction 1 a deposit or withdrawal? [D/W] A
+Invalid choice! Try again.
 Is transaction 1 a deposit or withdrawal? [D/W] valid
+Invalid choice! Try again.
 Is transaction 1 a deposit or withdrawal? [D/W] choice
+Invalid choice! Try again.
 Is transaction 1 a deposit or withdrawal? [D/W] D
 How much is being deposited? 12345.67
 
-Deposits: $12345.67
+Deposits: $12,345.67
 Withdrawals: $0.00
-Net Change: $12345.67
+Net Change: $12,345.67
 ```
 
 ## Submitting
